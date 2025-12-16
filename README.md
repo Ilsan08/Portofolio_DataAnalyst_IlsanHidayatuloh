@@ -20,11 +20,6 @@ This repository serves as a space to showcase my abilities, share my end-to-end 
 
 ---
 
-## Portfolio Projects
-
-In this section, I list data analytics projects, detailing the goals, technology stack used, and key insights derived.
-
----
 
 ## Portfolio Projects
 
@@ -50,7 +45,7 @@ In this section, I list data analytics projects, detailing the goals, technology
 
 ![H&M Store Network Analysis Dashboard](Dashboard.png)
 
-* **Dashboard File:** [CLICK TO DOWNLOAD WORKBOOK](ALL H&M STORES WORLDWIDE.twbx)
+* **Dashboard File:** [CLICK TO DOWNLOAD WORKBOOK](ALL%20H&M%20STORES%20WORLDWIDE.twbx)
 * **Goal:** To strategically analyze H&M's global store distribution by comparing store quantity, investment quality (*Store Class*), and market density (*City Penetration*).
 * **Description:** Visualized the cleaned dataset in Tableau, featuring a Dual-Axis Chart to compare total stores with city spread across the TOP 20 countries, along with a Stacked Bar Chart for store classification breakdown.
 * **Technology:** Tableau.
