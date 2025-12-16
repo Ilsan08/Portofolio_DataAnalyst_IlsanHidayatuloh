@@ -36,9 +36,9 @@ Visualisasi akhir berhasil menggabungkan tiga metrik utama dalam satu *chart* ya
 
 * **Penanganan *Missing Values*:** Selama proses *cleaning* di Python, 3 toko dengan *missing values* di kolom `StoreClass` diberi label baru sebagai **"Not yet confirmed"** untuk memastikan transparansi data dan mempertahankan total jumlah toko (4.292) secara akurat.
 
-## 🖼️ Tampilan Dashboard
+## Tampilan Dashboard
 
-![Tampilan Dashboard H&M Store Analysis](Dashboard1(1).png)
+![Tampilan Dashboard H&M Store Analysis](Dashboard 1 (1).png)
 
 ##  Akses File Proyek
 
