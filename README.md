@@ -24,21 +24,33 @@ This repository serves as a space to showcase my abilities, share my end-to-end 
 
 In this section, I list data analytics projects, detailing the goals, technology stack used, and key insights derived.
 
+---
+
+## Portfolio Projects
+
+In this section, I list data analytics projects, detailing the goals, technology stack used, and key insights derived.
+
 ### Data Cleaning & Modeling (Python)
 
 #### H&M Store Data Cleaning and Feature Engineering
 
-* **Code:** [VIEW PYTHON CODE] (`ALL_H&M_STORES_WORLDWIDE.ipynb`)
+* **Code:** [VIEW PYTHON CODE IN REPO](ALL_H&M_STORES_WORLDWIDE.ipynb)
 * **Goal:** To prepare raw store data for advanced visualization, focusing on data quality, handling missing values, and creating the core analytic feature: `Clean StoreClass`.
 * **Description:** Used Python (**Pandas**) to ingest raw data, perform necessary data validation, and address NULL values in the `StoreClass` column by reclassifying them as "Not yet confirmed." This script ensures data integrity and modeling readiness for Tableau.
 * **Technology:** Python (Pandas).
 * **Result (Output):** A clean, modeled dataset ready for visualization, forming the foundation of the market analysis.
 
+---
+
 ### Data Visualization & Analysis (Tableau)
 
 #### Global Store Network Analysis: Mapping H&M's Market Presence and Strategy
 
-* **Dashboard File:** [DOWNLOAD WORKBOOK] (`ALL H&M STORES WORLDWIDE.twbx`)
+**Dashboard Preview:**
+
+![H&M Store Network Analysis Dashboard](Dashboard.png)
+
+* **Dashboard File:** [CLICK TO DOWNLOAD WORKBOOK](ALL H&M STORES WORLDWIDE.twbx)
 * **Goal:** To strategically analyze H&M's global store distribution by comparing store quantity, investment quality (*Store Class*), and market density (*City Penetration*).
 * **Description:** Visualized the cleaned dataset in Tableau, featuring a Dual-Axis Chart to compare total stores with city spread across the TOP 20 countries, along with a Stacked Bar Chart for store classification breakdown.
 * **Technology:** Tableau.
