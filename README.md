@@ -2,11 +2,11 @@
 
 ## About Me
 
-Hi, I'm Ilsan! I am an enthusiastic undergraduate student currently advancing into my **5th semester of Information Technology (IT)**. My IT background has given me a robust foundation in logic and problem-solving, which fuels my deep-seated passion for **Data Science and Data Analysis**.
+Hi, I'm Ilsan! I am an enthusiastic undergraduate student currently advancing into my **5th semester of Informatics Engineering**. My IT background has given me a robust foundation in logic and problem-solving, which fuels my deep-seated passion for **Data Science and Data Analysis**.
 
 I am driven to leverage my technical skills in **Python and SQL** to transform raw, complex data into clear, actionable business insights.
 
-This repository serves as a space to showcase my abilities, share my end-to-end data analysis projects, and track my continuous growth in the data domain.
+
 
 
 
@@ -61,7 +61,7 @@ In this section, I list data analytics projects, detailing the goals, technology
 
 ## Certificates
 
-The best way to showcase skills is by doing and sharing your job done, but sometimes certificates appear to be as an indirect result. Here are key certifications I've obtained, demonstrating my commitment to fundamental skills:
+ Here are key certifications I've obtained, demonstrating my commitment to fundamental skills:
 
 * **Data Science:** Menjadi Data Scientist (Dicoding) - [View Certificate](https://www.dicoding.com/dicodingassets/coursecertificate/a433259bb6ecc5a45a5a6d0b7f859f53f17b9538/view)
 * **Python:** Memulai Pemrograman Dengan Python (Dicoding) - [View Certificate](https://www.dicoding.com/dicodingassets/coursecertificate/dc479dd3bfafd9d8d1e2fb528d46d501b00094e2/view)
