@@ -73,5 +73,5 @@ The best way to showcase skills is by doing and sharing your job done, but somet
 
 ## Contact
 
-* **LinkedIn:** [@ilsanhidayatulloh]([https://www.linkedin.com/in/ilsanhidayatulloh](https://www.linkedin.com/in/ilsan-hidayatuloh-084465288/))
+* **LinkedIn:** [ilsanhidayatulloh](https://www.linkedin.com/in/ilsan-hidayatuloh-084465288/)
 * **Email:** hidayatullohilsan70@gmail.com
