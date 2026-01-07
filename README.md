@@ -51,9 +51,13 @@ In this section, I list data analytics projects, detailing the goals, technology
 * **Technology:** Tableau.
 * **Key Findings:** The analysis reveals a dual strategy: **Flagship-led investment** in high-priority markets (US, China) and **high-density standard store deployment** in mature European markets.
 
-1. **[Analisis Segmentasi Pelanggan Mall](./Mall_customers.ipynb)**
-2. **[Data Penjualan Coffee Shop](./CoffeeOrdersData.xlsx)**
-3. **[Performa Penjualan E-commerce](./E-commerce_sales(1).csv)**
+### 📂 Daftar File Proyek
+
+* **[🛒 Analisis Segmentasi Pelanggan Mall](./Mall_customers.ipynb)** *(Klik untuk melihat notebook analisis Python)*
+    
+* **[☕ Data Penjualan Coffee Shop](./CoffeeOrdersData.xlsx?raw=true)** *(Klik untuk download file Excel)*
+
+* **[🛍️ Performa Penjualan E-commerce](./E-commerce_sales(1).sql)** *(Klik untuk melihat script Query SQL)*
 
 
 
