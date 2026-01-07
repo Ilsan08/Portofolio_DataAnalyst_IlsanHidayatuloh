@@ -56,14 +56,12 @@ In this section, I list data analytics projects, detailing the goals, technology
 1. **[ Analisis Segmentasi Pelanggan Mall](./Mall_Customers.ipynb)**
    - Analisis perilaku belanja menggunakan Python (Pandas & Seaborn).
 
-2. **[☕Data Penjualan Coffee Shop](./coffeeOrdersData.xlsx?raw=true)**
-   - Manajemen data transaksi dan loyalitas pelanggan dalam format Excel.
+2. **[☕ Data Penjualan Coffee Shop (Klik untuk Download)](./coffeeOrdersData.xlsx?raw=true)**
+   - Dataset transaksi kopi dalam format Excel. Berisi data pesanan, jenis roasting, dan loyalitas pelanggan.
 
 3. **[ Performa Penjualan E-commerce](./E-commerce_sales(1).sql)**
    - Script query SQL untuk analisis tren penjualan dan profit.
 
-4. **[ H&M Store Analysis](./ALL_H&M_STORES_WORLDWIDE.ipynb)**
-   - Analisis data toko global dari cleaning hingga visualisasi.
 
 
 ## Education
